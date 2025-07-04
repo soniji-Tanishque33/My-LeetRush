@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0001-two-sum) |
+| [0152-maximum-product-subarray](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0215-kth-largest-element-in-an-array) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -113,4 +114,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1826-maximum-xor-with-an-element-from-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
