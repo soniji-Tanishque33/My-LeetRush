@@ -16,8 +16,21 @@ public:
     }
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>> dp(n, vector<int>(n+1, -1));
-        return f(0, -1, nums, nums.size(), dp);
+        vector<int> dp(nums.size(), 1);
+        int maxi = 1;
+
+        for(int i = 0; i<n; i++) {
+            for(int j = i; j>=0; j--) {
+                if(nums[j] < nums[i]) {
+                    dp[i] = max(dp[i], dp[j]+1);
+                }
+            }
+            maxi = max(maxi, dp[i]);
+        }
+
+        for(int x: dp) cout << x << " ";
+
+        return maxi;
         
     }
 };
