@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0001-two-sum) |
+| [0064-minimum-path-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0215-kth-largest-element-in-an-array) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0733-flood-fill) |
 ## Graph
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0300-longest-increasing-subsequence) |
