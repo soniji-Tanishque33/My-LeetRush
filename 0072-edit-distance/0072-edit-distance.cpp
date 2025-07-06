@@ -23,25 +23,27 @@ public:
         int n = word1.size();
         int m = word2.size();
 
-        vector<vector<int>> dp(n+1, vector<int>(m+1, 0));
+        // vector<vector<int>> dp(n+1, vector<int>(m+1, 0));
+        vector<int> prev(m+1, 0), curr(m+1, 0);
 
-        for(int i = 0; i<=n; i++) dp[i][0] = i;
-        for(int j = 0; j<=m; j++) dp[0][j] = j;
+        for(int j = 0; j<=m; j++) prev[j] = j;
 
         for(int i = 1; i<=n; i++) {
+            curr[0] = i;
             for(int j = 1; j<=m; j++) {
                 if(word1[i-1] == word2[j-1]) {
-                    dp[i][j] = 0+dp[i-1][j-1];
+                    curr[j] = 0+prev[j-1];
                 }
 
                 else {
-                    dp[i][j] = min({
-                        1+dp[i-1][j], // delete
-                        1+ dp[i][j-1], // insert
-                        1+dp[i-1][j-1] // replace
+                    curr[j] = min({
+                        1+ prev[j], // delete
+                        1+ curr[j-1], // insert
+                        1+ prev[j-1] // replace
                     });
                 }
             }
+            prev = curr;
         }
 
         // for(int i = 0; i<=n; i++) {
@@ -50,6 +52,6 @@ public:
         //     }
         //     cout << endl;
         // }
-        return dp[n][m];
+        return prev[m];
     }
 };
