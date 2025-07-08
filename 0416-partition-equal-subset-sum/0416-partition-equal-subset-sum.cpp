@@ -24,16 +24,36 @@ public:
 
         return dp[i][target] = take | nottake;
     } 
+
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
         int total = 0;
+
         for(int& x : nums) total += x;
         if(total % 2 != 0) return false;
 
-        vector<vector<int>> dp(n, vector<int>(total+1, -1));
+        int target = total/2;
+        vector<vector<bool>> dp(n, vector<bool>(target+1, false));
+        for(int i = 0; i<n; i++) dp[i][0] = true;
+        if(nums[0] <= target) dp[0][nums[0]] = true;
 
-        
+        for(int i = 1; i<n; i++) {
+            for(int j = 0; j<=target; j++) {
+                 // take
+                int take = 0;
+                if(j >= nums[i]) {
+                    take = dp[i-1][j-nums[i]];
+                }
 
-        return sum_equal_to_k(n-1, total/2, nums, dp);
+                // not take
+                int nottake = dp[i-1][j];
+
+                dp[i][j] = take || nottake;
+            }
+        }
+
+
+
+        return dp[n-1][target];
     }
 };
