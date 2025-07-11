@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0720-longest-word-in-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0720-longest-word-in-dictionary) |
 | [0733-flood-fill](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0733-flood-fill) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [3934-coupon-code-validator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3934-coupon-code-validator) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0720-longest-word-in-dictionary) |
+| [3934-coupon-code-validator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3934-coupon-code-validator) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0215-kth-largest-element-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0720-longest-word-in-dictionary) |
+| [3934-coupon-code-validator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3934-coupon-code-validator) |
 ## Quickselect
 |  |
 | ------- |
@@ -120,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0208-implement-trie-prefix-tree) |
 | [0720-longest-word-in-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0720-longest-word-in-dictionary) |
+| [3934-coupon-code-validator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3934-coupon-code-validator) |
 ## Trie
 |  |
 | ------- |
