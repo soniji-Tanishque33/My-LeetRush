@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0215-kth-largest-element-in-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0789-kth-largest-element-in-a-stream) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0801-is-graph-bipartite) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3908-minimum-time-for-k-connected-components) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -181,4 +183,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3939-process-string-with-special-operations-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3939-process-string-with-special-operations-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 <!---LeetCode Topics End-->
