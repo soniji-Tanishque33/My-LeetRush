@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0118-pascals-triangle) |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
