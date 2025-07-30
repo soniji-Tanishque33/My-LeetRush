@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0300-longest-increasing-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0416-partition-equal-subset-sum) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0289-game-of-life) |
 | [0733-flood-fill](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0733-flood-fill) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Graph
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0289-game-of-life) |
 | [3905-partition-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3905-partition-string) |
 | [3939-process-string-with-special-operations-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3939-process-string-with-special-operations-ii) |
 ## Shortest Path
