@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0215-kth-largest-element-in-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1622-max-value-of-equation](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1622-max-value-of-equation) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Binary Tree
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1272-invalid-transactions](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1272-invalid-transactions) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1622-max-value-of-equation](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1622-max-value-of-equation) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
@@ -314,4 +316,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1622-max-value-of-equation](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1622-max-value-of-equation) |
+## Queue
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1622-max-value-of-equation) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1622-max-value-of-equation) |
 <!---LeetCode Topics End-->
