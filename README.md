@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0720-longest-word-in-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0740-delete-and-earn) |
 | [1019-squares-of-a-sorted-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1019-squares-of-a-sorted-array) |
 | [1272-invalid-transactions](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1272-invalid-transactions) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0720-longest-word-in-dictionary) |
+| [0740-delete-and-earn](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0740-delete-and-earn) |
 | [1272-invalid-transactions](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1272-invalid-transactions) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3868-find-maximum-area-of-a-triangle) |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0416-partition-equal-subset-sum) |
+| [0740-delete-and-earn](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0740-delete-and-earn) |
 | [1086-divisor-game](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1086-divisor-game) |
 | [3903-inverse-coin-change](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3903-inverse-coin-change) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
