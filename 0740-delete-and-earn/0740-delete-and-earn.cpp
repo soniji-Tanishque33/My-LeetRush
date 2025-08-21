@@ -15,20 +15,23 @@ public:
     int deleteAndEarn(vector<int>& nums) {
         int n = *max_element(nums.begin(), nums.end());
         vector<int> sum(n+1, 0);
-        vector<int> dp(n+1, 0);
-
         for(auto i : nums) {
             sum[i] +=  i;
         }
 
-        dp[1] = sum[1];
+        int prev2 = 0;
+        int prev1 = sum[1];
+        int curr = 0;
         for(int i = 2; i<=n; i++) {
-            int pick = sum[i] + dp[i-2];
-            int notpick = 0 + dp[i-1];
+            int pick = sum[i] + prev2;
+            int notpick = 0 + prev1;
 
-            dp[i] = max(pick, notpick);
+            curr = max(pick, notpick);
+
+            prev2 = prev1;
+            prev1 = curr;
         }
 
-        return dp[n];
+        return prev1;
     }
 };
