@@ -1,25 +1,36 @@
 class Solution {
 public:
-    bool f(int i, string s, unordered_set<string>& all, vector<int>& dp) {
-        
-        if(i == s.size()) return true;
-        if(dp[i] != -1) return dp[i];
-        
-        for(int j = i+1; j<=s.size(); j++) {
-            string str = s.substr(i, j-i);
-            if(all.find(str) != all.end() && f(j, s, all, dp)){
-                return dp[i] =  true;
-            } 
+    bool f(int index, string s, unordered_set<string>& st, vector<int>& dp) {
+        // base case
+        if(index == s.size()) {
+            return true;
+        }
+        if(dp[index] != -1) return dp[index];
+
+        // recurrsion
+        for(int j = index+1; j<=s.size(); j++) {
+            string str = s.substr(index, j-index);
+            if(st.find(str) != st.end() && f(j, s, st, dp)) {
+                return dp[index] = true;
+            }
         }
 
-        return dp[i] = false;
-
+        return dp[index] = false;
     }
     bool wordBreak(string s, vector<string>& wordDict) {
-        int n = wordDict.size();
-        unordered_set<string> all(wordDict.begin(), wordDict.end());
-        vector<int> dp(s.size(), -1);
-        return f(0, s, all, dp);
-        
+        unordered_set<string> st(wordDict.begin(), wordDict.end());
+
+        vector<int> dp(s.size()+1, 0);
+        dp[s.size()] = 1;
+        for(int index = s.size()-1; index >= 0; index-- ) {
+            for(int j = index+1; j<=s.size(); j++) {
+                string str = s.substr(index, j-index);
+                if(st.find(str) != st.end() && dp[j]) {
+                    dp[index] = 1;
+                    break;
+                }
+            }
+        }
+        return dp[0];
     }
 };
