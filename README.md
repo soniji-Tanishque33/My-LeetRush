@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0208-implement-trie-prefix-tree) |
 | [0720-longest-word-in-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0720-longest-word-in-dictionary) |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
