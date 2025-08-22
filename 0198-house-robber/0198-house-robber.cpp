@@ -13,7 +13,15 @@ public:
 
     }
     int rob(vector<int>& nums) {
-        vector<int> dp(nums.size(), -1);
-        return f(nums, 0, dp);
+        vector<int> dp(nums.size()+2, 0);
+
+        for(int index = nums.size()-1; index >= 0; index--) {
+            int pick = nums[index] + dp[index+2];
+            int notpick = 0+ dp[index+1];
+
+            dp[index] = max(pick, notpick);
+        }
+
+        return dp[0];
     }
 };
