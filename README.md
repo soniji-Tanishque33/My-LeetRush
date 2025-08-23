@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0072-edit-distance) |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -357,4 +359,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1086-divisor-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
