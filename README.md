@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0073-set-matrix-zeroes) |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0064-minimum-path-sum) |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -371,4 +374,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0062-unique-paths) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
