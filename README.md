@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0091-decode-ways) |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0045-jump-game-ii) |
@@ -363,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0039-combination-sum) |
 ## Sliding Window
 |  |
