@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0073-set-matrix-zeroes) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0032-longest-valid-parentheses) |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0070-climbing-stairs) |
