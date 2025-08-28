@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0139-word-break) |
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0085-maximal-rectangle) |
 | [0227-basic-calculator-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0227-basic-calculator-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
