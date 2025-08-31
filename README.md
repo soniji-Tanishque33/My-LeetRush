@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0169-majority-element) |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0151-reverse-words-in-a-string) |
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0076-minimum-window-substring) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1622-max-value-of-equation) |
 ## Queue
