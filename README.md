@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0338-counting-bits) |
@@ -355,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -446,4 +448,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0085-maximal-rectangle) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
