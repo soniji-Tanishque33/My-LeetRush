@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0289-game-of-life) |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0208-implement-trie-prefix-tree) |
+| [0268-missing-number](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -146,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0720-longest-word-in-dictionary) |
 | [1019-squares-of-a-sorted-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1019-squares-of-a-sorted-array) |
@@ -253,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -348,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0227-basic-calculator-ii) |
+| [0268-missing-number](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0415-add-strings](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0415-add-strings) |
