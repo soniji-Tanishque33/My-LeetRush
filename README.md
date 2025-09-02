@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0560-subarray-sum-equals-k) |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0415-add-strings](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0523-continuous-subarray-sum) |
 | [1086-divisor-game](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1086-divisor-game) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3868-find-maximum-area-of-a-triangle) |
