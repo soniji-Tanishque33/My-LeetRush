@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0535-encode-and-decode-tinyurl](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0535-encode-and-decode-tinyurl) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0720-longest-word-in-dictionary) |
 | [0740-delete-and-earn](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0740-delete-and-earn) |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0208-implement-trie-prefix-tree) |
 | [0227-basic-calculator-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0227-basic-calculator-ii) |
 | [0415-add-strings](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0415-add-strings) |
+| [0535-encode-and-decode-tinyurl](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0535-encode-and-decode-tinyurl) |
 | [0647-palindromic-substrings](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0647-palindromic-substrings) |
 | [0720-longest-word-in-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0720-longest-word-in-dictionary) |
 | [1272-invalid-transactions](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1272-invalid-transactions) |
@@ -452,4 +455,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0231-power-of-two) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
