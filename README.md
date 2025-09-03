@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0227-basic-calculator-ii) |
 | [0415-add-strings](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0415-add-strings) |
 | [0535-encode-and-decode-tinyurl](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0535-encode-and-decode-tinyurl) |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0070-climbing-stairs) |
+| [0224-basic-calculator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0268-missing-number) |
@@ -454,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0085-maximal-rectangle) |
+| [0224-basic-calculator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0227-basic-calculator-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
@@ -464,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0231-power-of-two) |
 ## Hash Function
 |  |
