@@ -375,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0628-maximum-product-of-three-numbers) |
 | [1086-divisor-game](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1086-divisor-game) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1585-the-kth-factor-of-n](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1585-the-kth-factor-of-n) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Counting
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1585-the-kth-factor-of-n) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Geometry
 |  |
