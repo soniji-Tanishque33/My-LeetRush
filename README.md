@@ -296,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0312-burst-balloons) |
 | [0338-counting-bits](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0343-integer-break) |
 | [0403-frog-jump](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0647-palindromic-substrings) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0227-basic-calculator-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0268-missing-number) |
+| [0343-integer-break](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0343-integer-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0415-add-strings](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0415-add-strings) |
