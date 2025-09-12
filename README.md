@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0227-basic-calculator-ii) |
+| [0402-remove-k-digits](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0415-add-strings) |
 | [0535-encode-and-decode-tinyurl](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0535-encode-and-decode-tinyurl) |
 | [0647-palindromic-substrings](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0647-palindromic-substrings) |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0621-task-scheduler) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
@@ -478,12 +480,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0227-basic-calculator-ii) |
+| [0402-remove-k-digits](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0402-remove-k-digits) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0402-remove-k-digits) |
 ## Recursion
 |  |
 | ------- |
