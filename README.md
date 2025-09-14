@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0152-maximum-product-subarray) |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0621-task-scheduler) |
