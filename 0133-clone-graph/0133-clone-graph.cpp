@@ -20,38 +20,35 @@ public:
 */
 
 class Solution {
-private:
-    Node* dfs(unordered_map<Node*, Node*>& mpp, Node* node) {
+public:
+    Node * dfs(Node* node, unordered_map<Node*, Node*>& mp) {
         if(node == NULL) return NULL;
-        if(mpp.find(node) != mpp.end()) return mpp[node];
+        if(mp.find(node) != mp.end()) return mp[node];
 
-        Node* clone = new Node(node->val);
-        mpp[node] = clone;
+        Node * clone = new Node(node->val);
+        mp[node] = clone;
 
-        for(auto it: node->neighbors) {
-            if(mpp.find(it) != mpp.end()) {
-                clone->neighbors.push_back(mpp[it]);
+        for(auto neighbor: node->neighbors) {
+            if(mp.find(neighbor) != mp.end()) {
+                clone->neighbors.push_back(mp[neighbor]);
             } else {
-                clone->neighbors.push_back(dfs(mpp, it));
+                clone->neighbors.push_back(dfs(neighbor, mp));
             }
         }
 
         return clone;
     }
-public:
     Node* cloneGraph(Node* node) {
-        if(node==NULL) return NULL;
+        if(node == NULL) return NULL;
 
         if(node->neighbors.size() == 0) {
-            Node* clone = new Node(node->val);
+            Node * clone = new Node(node->val);
             return clone;
         }
 
-        unordered_map<Node*, Node*> mpp;
-        Node* clone = dfs(mpp, node);
+        unordered_map<Node*, Node*> mp;
+        Node* clone = dfs(node, mp);
 
         return clone;
-
-
     }
 };
