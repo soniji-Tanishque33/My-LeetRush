@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0130-surrounded-regions](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0139-word-break) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0207-course-schedule) |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0207-course-schedule) |
@@ -213,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0289-game-of-life) |
@@ -240,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0801-is-graph-bipartite) |
