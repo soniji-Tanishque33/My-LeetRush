@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0337-house-robber-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0789-kth-largest-element-in-a-stream) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0337-house-robber-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0337-house-robber-iii) |
 | [0547-number-of-provinces](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0733-flood-fill) |
@@ -209,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0733-flood-fill) |
