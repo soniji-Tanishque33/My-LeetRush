@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0337-house-robber-iii) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0337-house-robber-iii) |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0200-number-of-islands) |
