@@ -4,7 +4,7 @@ public:
         unordered_map<char, int> mp;
         int i = 0;
         for(char ch : order) {
-            mp[ch] = 'a' + i;
+            mp[ch] = i;
             i++;
         }
 
