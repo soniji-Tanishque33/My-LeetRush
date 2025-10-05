@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0069-sqrtx) |
 | [0095-unique-binary-search-trees-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0098-validate-binary-search-tree) |
@@ -478,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0149-max-points-on-a-line) |
