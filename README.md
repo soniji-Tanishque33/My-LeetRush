@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1087-longest-arithmetic-subsequence](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1087-longest-arithmetic-subsequence) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0740-delete-and-earn) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0990-verifying-an-alien-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0990-verifying-an-alien-dictionary) |
 | [1019-squares-of-a-sorted-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1019-squares-of-a-sorted-array) |
 | [1087-longest-arithmetic-subsequence](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1087-longest-arithmetic-subsequence) |
