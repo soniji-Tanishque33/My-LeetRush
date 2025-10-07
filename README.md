@@ -627,4 +627,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0355-design-twitter) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
