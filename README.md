@@ -382,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0268-missing-number) |
@@ -492,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0067-add-binary) |
