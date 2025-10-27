@@ -1,51 +1,49 @@
 class Solution {
-private:
-    void bfs(int row, int col, vector<vector<int>>& visited, vector<vector<char>>& grid) {
-        visited[row][col] = 1;
-        int n = grid.size();
-        int m = grid[0].size();
-        queue<pair<int, int>> q;
-        q.push({row, col});
+public:
+    void bfs(vector<vector<char>>& grid, int i, int j, vector<vector<int>>& visited) {
+        int m = grid.size();
+        int n = grid[0].size();
+        queue<pair<int,int>> q;
+
+        q.push({i, j});
+        visited[i][j] = 1;
+
+        // top bottom left right
+        int dx[] = {0 , 0, -1, 1};
+        int dy[] = {-1, 1, 0, 0};
 
         while(!q.empty()) {
-            int r = q.front().first;
-            int c = q.front().second;
+            pair<int, int> p = q.front();
             q.pop();
+            int _x = p.first;
+            int _y = p.second;
 
-            // top right bottom left
-            int dx[] = {0, +1, 0, -1};
-            int dy[] = {+1, 0 ,-1, 0};
+            for(int i = 0; i<4; i++) {
+                int x = _x + dx[i];
+                int y = _y + dy[i];
 
-            
-            for(int i=0; i<4; i++) {
-                int nrow = r + dx[i];
-                int ncol = c + dy[i];
-
-                if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m
-                && grid[nrow][ncol] == '1' && visited[nrow][ncol] == 0) {
-                    visited[nrow][ncol] = 1;
-                    q.push({nrow, ncol});
+                if(x >= 0 && x < m && y >= 0 && y < n && grid[x][y] == '1' && visited[x][y] == 0) {
+                    visited[x][y] = 1;
+                    q.push({x, y});
                 }
             }
-            
         }
-    }
-public:
-    int numIslands(vector<vector<char>>& grid) {
-        int ans = 0;
-        int n = grid.size();
-        int m = grid[0].size();
-        vector<vector<int>> visited(n, vector<int>(m, 0));
 
-        for(int i = 0; i<n; i++) {
-            for(int j = 0; j<m; j++) {
+    }
+    int numIslands(vector<vector<char>>& grid) {
+        int m = grid.size();
+        int n = grid[0].size();
+        vector<vector<int>> visited(m, vector<int>(n, 0));
+        int ans = 0;
+
+        for(int i = 0; i<m; i++) {
+            for(int j = 0; j<n; j++) {
                 if(grid[i][j] == '1' && visited[i][j] == 0) {
-                    bfs(i, j, visited, grid);
+                    bfs(grid, i, j, visited);
                     ans++;
                 }
             }
         }
-
 
         return ans;
     }
