@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0740-delete-and-earn) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0945-snakes-and-ladders](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0945-snakes-and-ladders) |
 | [0990-verifying-an-alien-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0990-verifying-an-alien-dictionary) |
 | [1019-squares-of-a-sorted-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0945-snakes-and-ladders](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0945-snakes-and-ladders) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 ## Matrix
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0733-flood-fill) |
+| [0945-snakes-and-ladders](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0945-snakes-and-ladders) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Graph
