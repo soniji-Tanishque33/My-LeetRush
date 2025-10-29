@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1622-max-value-of-equation](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1622-max-value-of-equation) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2664-maximize-greatness-of-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/2664-maximize-greatness-of-an-array) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0945-snakes-and-ladders) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1757-minimum-jumps-to-reach-home) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
@@ -435,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1087-longest-arithmetic-subsequence](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1087-longest-arithmetic-subsequence) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1757-minimum-jumps-to-reach-home) |
 | [3903-inverse-coin-change](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3903-inverse-coin-change) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 | [3913-partition-array-to-minimize-xor](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3913-partition-array-to-minimize-xor) |
