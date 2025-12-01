@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0496-next-greater-element-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0560-subarray-sum-equals-k) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0535-encode-and-decode-tinyurl) |
@@ -625,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0496-next-greater-element-i) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
@@ -632,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
