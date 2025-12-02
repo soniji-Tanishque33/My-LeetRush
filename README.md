@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0208-implement-trie-prefix-tree) |
+| [0232-implement-queue-using-stacks](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0380-insert-delete-getrandom-o1) |
@@ -600,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0232-implement-queue-using-stacks) |
 | [1622-max-value-of-equation](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1622-max-value-of-equation) |
 ## Monotonic Queue
 |  |
@@ -626,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0496-next-greater-element-i) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
