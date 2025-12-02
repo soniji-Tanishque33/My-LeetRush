@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0720-longest-word-in-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0740-delete-and-earn) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0945-snakes-and-ladders](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0945-snakes-and-ladders) |
@@ -632,6 +633,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0739-daily-temperatures) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
@@ -641,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
