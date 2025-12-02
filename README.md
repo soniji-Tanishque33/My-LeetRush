@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0304-range-sum-query-2d-immutable) |
+| [0341-flatten-nested-list-iterator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0341-flatten-nested-list-iterator) |
 | [0355-design-twitter](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -604,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0341-flatten-nested-list-iterator) |
 | [1622-max-value-of-equation](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1622-max-value-of-equation) |
 ## Monotonic Queue
 |  |
@@ -631,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0341-flatten-nested-list-iterator) |
 | [0402-remove-k-digits](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0739-daily-temperatures) |
@@ -667,4 +672,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1258-article-views-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1827-invalid-tweets) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
