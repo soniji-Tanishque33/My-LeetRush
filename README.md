@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0535-encode-and-decode-tinyurl](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0535-encode-and-decode-tinyurl) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0901-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1023-time-based-key-value-store) |
 ## Binary Search Tree
 |  |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0901-online-stock-span) |
 ## Array
 |  |
 | ------- |
@@ -639,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0901-online-stock-span) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
@@ -649,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0901-online-stock-span) |
 ## Recursion
 |  |
 | ------- |
