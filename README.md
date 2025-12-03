@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0312-burst-balloons](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0312-burst-balloons) |
 | [0380-insert-delete-getrandom-o1](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0399-evaluate-division](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0341-flatten-nested-list-iterator) |
+| [0399-evaluate-division](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0301-remove-invalid-parentheses) |
+| [0399-evaluate-division](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0547-number-of-provinces) |
@@ -335,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0813-all-paths-from-source-to-target) |
@@ -354,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0801-is-graph-bipartite) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
@@ -386,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0227-basic-calculator-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0301-remove-invalid-parentheses) |
+| [0399-evaluate-division](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0415-add-strings) |
 | [0535-encode-and-decode-tinyurl](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0535-encode-and-decode-tinyurl) |
@@ -498,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0399-evaluate-division) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Greedy
 |  |
