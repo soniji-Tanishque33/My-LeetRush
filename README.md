@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0215-kth-largest-element-in-an-array) |
 | [0355-design-twitter](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0743-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1622-max-value-of-equation](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1622-max-value-of-equation) |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0743-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -310,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0743-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -340,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0743-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0813-all-paths-from-source-to-target) |
 | [0997-find-the-town-judge](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0997-find-the-town-judge) |
@@ -505,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0743-network-delay-time) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Greedy
 |  |
