@@ -290,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0802-find-eventual-safe-states) |
 | [0813-all-paths-from-source-to-target](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0813-all-paths-from-source-to-target) |
+| [0886-possible-bipartition](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0886-possible-bipartition) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1300-critical-connections-in-a-network) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0802-find-eventual-safe-states) |
 | [0813-all-paths-from-source-to-target](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0813-all-paths-from-source-to-target) |
+| [0886-possible-bipartition](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0886-possible-bipartition) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0945-snakes-and-ladders) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0802-find-eventual-safe-states) |
 | [0813-all-paths-from-source-to-target](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0813-all-paths-from-source-to-target) |
+| [0886-possible-bipartition](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0886-possible-bipartition) |
 | [0997-find-the-town-judge](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0997-find-the-town-judge) |
 | [1300-critical-connections-in-a-network](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1300-critical-connections-in-a-network) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
@@ -369,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0801-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0886-possible-bipartition) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3908-minimum-time-for-k-connected-components) |
