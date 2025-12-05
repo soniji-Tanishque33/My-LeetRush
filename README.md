@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0743-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0801-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0802-find-eventual-safe-states) |
 | [0813-all-paths-from-source-to-target](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1300-critical-connections-in-a-network) |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0743-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0801-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0802-find-eventual-safe-states) |
 | [0813-all-paths-from-source-to-target](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0945-snakes-and-ladders) |
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0743-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0801-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0802-find-eventual-safe-states) |
 | [0813-all-paths-from-source-to-target](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0813-all-paths-from-source-to-target) |
 | [0997-find-the-town-judge](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0997-find-the-town-judge) |
 | [1300-critical-connections-in-a-network](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1300-critical-connections-in-a-network) |
@@ -357,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0802-find-eventual-safe-states) |
 ## Union Find
 |  |
 | ------- |
