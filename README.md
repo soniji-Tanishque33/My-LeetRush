@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1087-longest-arithmetic-subsequence) |
+| [1162-as-far-from-land-as-possible](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1162-as-far-from-land-as-possible) |
 | [1272-invalid-transactions](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1272-invalid-transactions) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0886-possible-bipartition](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0886-possible-bipartition) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0945-snakes-and-ladders) |
+| [1162-as-far-from-land-as-possible](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1162-as-far-from-land-as-possible) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1757-minimum-jumps-to-reach-home) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0945-snakes-and-ladders) |
+| [1162-as-far-from-land-as-possible](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1162-as-far-from-land-as-possible) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Graph
@@ -486,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-sum-of-subarray-minimums](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0907-sum-of-subarray-minimums) |
 | [1086-divisor-game](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1086-divisor-game) |
 | [1087-longest-arithmetic-subsequence](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1087-longest-arithmetic-subsequence) |
+| [1162-as-far-from-land-as-possible](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1162-as-far-from-land-as-possible) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1757-minimum-jumps-to-reach-home) |
