@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0743-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0973-k-closest-points-to-origin) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1622-max-value-of-equation](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1622-max-value-of-equation) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0907-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0945-snakes-and-ladders) |
+| [0973-k-closest-points-to-origin](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0973-k-closest-points-to-origin) |
 | [0990-verifying-an-alien-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0990-verifying-an-alien-dictionary) |
 | [0990-satisfiability-of-equality-equations](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0990-satisfiability-of-equality-equations) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0992-subarrays-with-k-different-integers) |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -253,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0720-longest-word-in-dictionary) |
+| [0973-k-closest-points-to-origin](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1019-squares-of-a-sorted-array) |
 | [1272-invalid-transactions](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1272-invalid-transactions) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -266,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0973-k-closest-points-to-origin) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -586,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0628-maximum-product-of-three-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0973-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1086-divisor-game) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1585-the-kth-factor-of-n](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1585-the-kth-factor-of-n) |
@@ -609,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0149-max-points-on-a-line) |
 | [0593-valid-square](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0593-valid-square) |
+| [0973-k-closest-points-to-origin](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0973-k-closest-points-to-origin) |
 | [1610-maximum-number-of-visible-points](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1610-maximum-number-of-visible-points) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3868-find-maximum-area-of-a-triangle) |
 ## Enumeration
