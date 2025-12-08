@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0743-network-delay-time) |
+| [0767-reorganize-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0767-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0973-k-closest-points-to-origin) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0720-longest-word-in-dictionary) |
 | [0740-delete-and-earn](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0740-delete-and-earn) |
+| [0767-reorganize-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0767-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-verifying-an-alien-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0990-verifying-an-alien-dictionary) |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0720-longest-word-in-dictionary) |
+| [0767-reorganize-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1019-squares-of-a-sorted-array) |
 | [1272-invalid-transactions](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1272-invalid-transactions) |
@@ -429,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0535-encode-and-decode-tinyurl](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0535-encode-and-decode-tinyurl) |
 | [0647-palindromic-substrings](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0647-palindromic-substrings) |
 | [0720-longest-word-in-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0720-longest-word-in-dictionary) |
+| [0767-reorganize-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0767-reorganize-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0990-verifying-an-alien-dictionary) |
 | [0990-satisfiability-of-equality-equations](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0990-satisfiability-of-equality-equations) |
 | [1023-time-based-key-value-store](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1023-time-based-key-value-store) |
@@ -552,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0767-reorganize-string) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
@@ -603,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0992-subarrays-with-k-different-integers) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Number Theory
