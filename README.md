@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-sum-of-subarray-minimums](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0907-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0945-snakes-and-ladders) |
 | [0990-verifying-an-alien-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0990-verifying-an-alien-dictionary) |
+| [0990-satisfiability-of-equality-equations](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0990-satisfiability-of-equality-equations) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0997-find-the-town-judge) |
 | [1019-squares-of-a-sorted-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1019-squares-of-a-sorted-array) |
@@ -355,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-all-paths-from-source-to-target](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0813-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0990-satisfiability-of-equality-equations](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0997-find-the-town-judge) |
 | [1300-critical-connections-in-a-network](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1300-critical-connections-in-a-network) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0801-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0990-satisfiability-of-equality-equations](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0990-satisfiability-of-equality-equations) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3908-minimum-time-for-k-connected-components) |
@@ -414,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0647-palindromic-substrings) |
 | [0720-longest-word-in-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0720-longest-word-in-dictionary) |
 | [0990-verifying-an-alien-dictionary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0990-verifying-an-alien-dictionary) |
+| [0990-satisfiability-of-equality-equations](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0990-satisfiability-of-equality-equations) |
 | [1023-time-based-key-value-store](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1023-time-based-key-value-store) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1272-invalid-transactions](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1272-invalid-transactions) |
