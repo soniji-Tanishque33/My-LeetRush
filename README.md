@@ -297,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1300-critical-connections-in-a-network](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1300-critical-connections-in-a-network) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0945-snakes-and-ladders) |
 | [1162-as-far-from-land-as-possible](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1162-as-far-from-land-as-possible) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1757-minimum-jumps-to-reach-home) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0990-satisfiability-of-equality-equations](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0997-find-the-town-judge) |
 | [1300-critical-connections-in-a-network](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1300-critical-connections-in-a-network) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3908-minimum-time-for-k-connected-components) |
@@ -383,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0886-possible-bipartition](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0990-satisfiability-of-equality-equations) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3908-minimum-time-for-k-connected-components) |
