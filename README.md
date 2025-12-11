@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0264-ugly-number-ii) |
 | [0355-design-twitter](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0355-design-twitter) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0218-the-skyline-problem) |
 | [0221-maximal-square](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0239-sliding-window-maximum) |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0218-the-skyline-problem) |
 | [0973-k-closest-points-to-origin](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
@@ -265,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0218-the-skyline-problem) |
 | [0268-missing-number](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0435-non-overlapping-intervals) |
@@ -550,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0218-the-skyline-problem) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 ## Simulation
 |  |
@@ -783,4 +788,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0023-merge-k-sorted-lists) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
