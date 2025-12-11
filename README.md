@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0264-ugly-number-ii) |
 | [0355-design-twitter](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0287-find-the-duplicate-number) |
@@ -684,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0239-sliding-window-maximum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0992-subarrays-with-k-different-integers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1610-maximum-number-of-visible-points](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1610-maximum-number-of-visible-points) |
@@ -692,11 +695,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0341-flatten-nested-list-iterator) |
 | [1622-max-value-of-equation](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1622-max-value-of-equation) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0239-sliding-window-maximum) |
 | [1622-max-value-of-equation](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1622-max-value-of-equation) |
 ## Brainteaser
 |  |
