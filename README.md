@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0778-swim-in-rising-water](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0778-swim-in-rising-water) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1023-time-based-key-value-store](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1023-time-based-key-value-store) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0973-k-closest-points-to-origin) |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0740-delete-and-earn) |
+| [0778-swim-in-rising-water](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0778-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0907-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0945-snakes-and-ladders) |
@@ -316,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0802-find-eventual-safe-states) |
@@ -347,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0802-find-eventual-safe-states) |
@@ -372,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0778-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0945-snakes-and-ladders) |
 | [1162-as-far-from-land-as-possible](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1162-as-far-from-land-as-possible) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -413,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0778-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0801-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0947-most-stones-removed-with-same-row-or-column) |
