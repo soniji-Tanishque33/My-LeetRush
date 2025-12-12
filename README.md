@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1757-minimum-jumps-to-reach-home](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2664-maximize-greatness-of-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/2664-maximize-greatness-of-an-array) |
+| [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3868-find-maximum-area-of-a-triangle) |
