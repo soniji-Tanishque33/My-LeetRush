@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0085-maximal-rectangle) |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0085-maximal-rectangle) |
@@ -574,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0415-add-strings) |
