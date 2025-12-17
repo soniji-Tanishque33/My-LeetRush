@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0295-find-median-from-data-stream) |
 | [0304-range-sum-query-2d-immutable](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0304-range-sum-query-2d-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0341-flatten-nested-list-iterator) |
 | [0355-design-twitter](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0355-design-twitter) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0218-the-skyline-problem](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0480-sliding-window-median](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0480-sliding-window-median) |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0901-online-stock-span) |
 ## Array
@@ -283,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0218-the-skyline-problem) |
 | [0268-missing-number](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0435-non-overlapping-intervals) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -692,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0295-find-median-from-data-stream) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0647-palindromic-substrings) |
 | [1019-squares-of-a-sorted-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1019-squares-of-a-sorted-array) |
