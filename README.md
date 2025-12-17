@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0264-ugly-number-ii) |
 | [0355-design-twitter](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0480-sliding-window-median](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0767-reorganize-string) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0480-sliding-window-median](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0480-sliding-window-median](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -714,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0480-sliding-window-median) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0992-subarrays-with-k-different-integers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1610-maximum-number-of-visible-points](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1610-maximum-number-of-visible-points) |
