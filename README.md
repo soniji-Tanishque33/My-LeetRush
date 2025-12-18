@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-time-based-key-value-store](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1023-time-based-key-value-store) |
 | [1348-tweet-counts-per-frequency](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1348-tweet-counts-per-frequency) |
 | [1396-design-underground-system](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1396-design-underground-system) |
+| [1472-design-browser-history](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1472-design-browser-history) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1472-design-browser-history) |
 ## Array
 |  |
 | ------- |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1314-matrix-block-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1314-matrix-block-sum) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1472-design-browser-history](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1472-design-browser-history) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -780,6 +783,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-sum-of-subarray-minimums](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0907-sum-of-subarray-minimums) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1472-design-browser-history](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1472-design-browser-history) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Monotonic Stack
 |  |
@@ -812,6 +816,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0355-design-twitter) |
+| [1472-design-browser-history](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1472-design-browser-history) |
 ## Database
 |  |
 | ------- |
@@ -826,6 +831,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1472-design-browser-history) |
 ## Merge Sort
 |  |
 | ------- |
