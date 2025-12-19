@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1348-tweet-counts-per-frequency](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1348-tweet-counts-per-frequency) |
 | [1396-design-underground-system](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1396-design-underground-system) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [3412-find-mirror-score-of-a-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3412-find-mirror-score-of-a-string) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3905-partition-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3905-partition-string) |
@@ -499,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1396-design-underground-system](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1396-design-underground-system) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [3412-find-mirror-score-of-a-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3412-find-mirror-score-of-a-string) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3905-partition-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3905-partition-string) |
 | [3934-coupon-code-validator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3934-coupon-code-validator) |
@@ -604,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0415-add-strings) |
+| [3412-find-mirror-score-of-a-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3412-find-mirror-score-of-a-string) |
 | [3905-partition-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3905-partition-string) |
 | [3939-process-string-with-special-operations-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3939-process-string-with-special-operations-ii) |
 ## Shortest Path
@@ -790,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1472-design-browser-history](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1472-design-browser-history) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1673-find-the-most-competitive-subsequence) |
+| [3412-find-mirror-score-of-a-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3412-find-mirror-score-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
