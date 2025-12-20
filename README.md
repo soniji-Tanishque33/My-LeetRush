@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Heap (Priority Queue)
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3868-find-maximum-area-of-a-triangle) |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2664-maximize-greatness-of-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/2664-maximize-greatness-of-an-array) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3908-minimum-time-for-k-connected-components) |
 | [3934-coupon-code-validator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3934-coupon-code-validator) |
 ## Quickselect
@@ -574,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1757-minimum-jumps-to-reach-home) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3903-inverse-coin-change](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3903-inverse-coin-change) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 | [3913-partition-array-to-minimize-xor](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3913-partition-array-to-minimize-xor) |
