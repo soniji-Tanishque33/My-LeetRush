@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1348-tweet-counts-per-frequency](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1348-tweet-counts-per-frequency) |
 | [1396-design-underground-system](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1472-design-browser-history) |
+| [3408-design-task-manager](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3408-design-task-manager) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1622-max-value-of-equation](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1622-max-value-of-equation) |
 | [1642-furthest-building-you-can-reach](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1642-furthest-building-you-can-reach) |
+| [3408-design-task-manager](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3408-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Binary Tree
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1348-tweet-counts-per-frequency](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1348-tweet-counts-per-frequency) |
 | [1396-design-underground-system](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1396-design-underground-system) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [3408-design-task-manager](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3408-design-task-manager) |
 | [3412-find-mirror-score-of-a-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3412-find-mirror-score-of-a-string) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3868-find-maximum-area-of-a-triangle) |
@@ -606,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0218-the-skyline-problem](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0218-the-skyline-problem) |
 | [1348-tweet-counts-per-frequency](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1348-tweet-counts-per-frequency) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
+| [3408-design-task-manager](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3408-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 ## Simulation
 |  |
