@@ -506,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1396-design-underground-system](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1396-design-underground-system) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [3407-substring-matching-pattern](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3407-substring-matching-pattern) |
 | [3412-find-mirror-score-of-a-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3412-find-mirror-score-of-a-string) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3905-partition-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3905-partition-string) |
@@ -867,4 +868,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0218-the-skyline-problem) |
+## String Matching
+|  |
+| ------- |
+| [3407-substring-matching-pattern](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3407-substring-matching-pattern) |
 <!---LeetCode Topics End-->
