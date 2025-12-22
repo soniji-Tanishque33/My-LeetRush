@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3411-maximum-subarray-with-equal-products](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3868-find-maximum-area-of-a-triangle) |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1162-as-far-from-land-as-possible](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1162-as-far-from-land-as-possible) |
 | [1314-matrix-block-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1314-matrix-block-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Graph
 |  |
@@ -620,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0415-add-strings) |
 | [3412-find-mirror-score-of-a-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3412-find-mirror-score-of-a-string) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3905-partition-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3905-partition-string) |
 | [3939-process-string-with-special-operations-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3939-process-string-with-special-operations-ii) |
 ## Shortest Path
