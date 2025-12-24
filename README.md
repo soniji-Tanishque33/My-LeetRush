@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3425-longest-special-path](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3425-longest-special-path) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3868-find-maximum-area-of-a-triangle) |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3424-minimum-cost-to-make-arrays-identical) |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3908-minimum-time-for-k-connected-components) |
 | [3934-coupon-code-validator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3934-coupon-code-validator) |
 ## Quickselect
@@ -595,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1757-minimum-jumps-to-reach-home) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3903-inverse-coin-change](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3903-inverse-coin-change) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 | [3913-partition-array-to-minimize-xor](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3913-partition-array-to-minimize-xor) |
@@ -708,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1585-the-kth-factor-of-n](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1585-the-kth-factor-of-n) |
 | [1610-maximum-number-of-visible-points](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1610-maximum-number-of-visible-points) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Counting
@@ -804,6 +808,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0062-unique-paths) |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## Stack
 |  |
 | ------- |
