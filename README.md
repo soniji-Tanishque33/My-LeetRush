@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3425-longest-special-path](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3425-longest-special-path) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3868-find-maximum-area-of-a-triangle) |
@@ -610,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3425-longest-special-path](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3425-longest-special-path) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3913-partition-array-to-minimize-xor](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3913-partition-array-to-minimize-xor) |
 ## Memoization
 |  |
