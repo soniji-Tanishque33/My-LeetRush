@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0218-the-skyline-problem) |
+| [0219-contains-duplicate-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0239-sliding-window-maximum) |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0149-max-points-on-a-line](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0208-implement-trie-prefix-tree) |
+| [0219-contains-duplicate-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0268-missing-number) |
 | [0355-design-twitter](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0355-design-twitter) |
@@ -778,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0480-sliding-window-median) |
 | [0992-subarrays-with-k-different-integers](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0992-subarrays-with-k-different-integers) |
