@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0337-house-robber-iii) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0337-house-robber-iii) |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0200-number-of-islands) |
@@ -775,6 +778,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0039-combination-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0095-unique-binary-search-trees-ii) |
+| [0113-path-sum-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0301-remove-invalid-parentheses) |
 | [0813-all-paths-from-source-to-target](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0813-all-paths-from-source-to-target) |
