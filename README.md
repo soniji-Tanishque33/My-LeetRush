@@ -862,6 +862,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0231-power-of-two) |
 ## Hash Function
@@ -877,6 +878,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0146-lru-cache) |
+| [0203-remove-linked-list-elements](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0203-remove-linked-list-elements) |
 | [0355-design-twitter](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0355-design-twitter) |
 | [1472-design-browser-history](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1472-design-browser-history) |
 ## Database
