@@ -532,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1396-design-underground-system](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1396-design-underground-system) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3407-substring-matching-pattern](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3407-substring-matching-pattern) |
 | [3412-find-mirror-score-of-a-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3412-find-mirror-score-of-a-string) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
@@ -647,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0415-add-strings) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3412-find-mirror-score-of-a-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3412-find-mirror-score-of-a-string) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3905-partition-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3905-partition-string) |
@@ -843,6 +845,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1472-design-browser-history](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1472-design-browser-history) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3412-find-mirror-score-of-a-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3412-find-mirror-score-of-a-string) |
 ## Monotonic Stack
 |  |
