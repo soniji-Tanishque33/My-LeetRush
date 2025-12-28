@@ -598,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0788-rotated-digits](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0788-rotated-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0907-sum-of-subarray-minimums) |
 | [1086-divisor-game](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1086-divisor-game) |
 | [1087-longest-arithmetic-subsequence](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1087-longest-arithmetic-subsequence) |
@@ -717,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0539-minimum-time-difference) |
 | [0593-valid-square](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0628-maximum-product-of-three-numbers) |
+| [0788-rotated-digits](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0788-rotated-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0973-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1086-divisor-game) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1446-angle-between-hands-of-a-clock) |
