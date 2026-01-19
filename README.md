@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3429-paint-house-iv](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3429-paint-house-iv) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3447-assign-elements-to-groups-with-constraints](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3868-find-maximum-area-of-a-triangle) |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3408-design-task-manager](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3408-design-task-manager) |
 | [3412-find-mirror-score-of-a-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3412-find-mirror-score-of-a-string) |
 | [3425-longest-special-path](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3425-longest-special-path) |
+| [3447-assign-elements-to-groups-with-constraints](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3905-partition-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3905-partition-string) |
