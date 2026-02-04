@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-design-underground-system](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1472-design-browser-history) |
 | [3408-design-task-manager](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3408-design-task-manager) |
+| [3829-design-ride-sharing-system](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3829-design-ride-sharing-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1472-design-browser-history) |
+| [3829-design-ride-sharing-system](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3829-design-ride-sharing-system) |
 ## Array
 |  |
 | ------- |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3412-find-mirror-score-of-a-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3412-find-mirror-score-of-a-string) |
 | [3425-longest-special-path](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3425-longest-special-path) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3447-assign-elements-to-groups-with-constraints) |
+| [3829-design-ride-sharing-system](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3829-design-ride-sharing-system) |
 | [3863-power-grid-maintenance](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3863-power-grid-maintenance) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3905-partition-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3905-partition-string) |
@@ -825,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0341-flatten-nested-list-iterator) |
 | [1622-max-value-of-equation](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1622-max-value-of-equation) |
+| [3829-design-ride-sharing-system](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3829-design-ride-sharing-system) |
 ## Monotonic Queue
 |  |
 | ------- |
