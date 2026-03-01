@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3429-paint-house-iv](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3429-paint-house-iv) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3447-assign-elements-to-groups-with-constraints) |
+| [3537-fill-a-special-grid](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3537-fill-a-special-grid) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3828-final-element-after-subarray-deletions](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3828-final-element-after-subarray-deletions) |
 | [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0218-the-skyline-problem) |
 | [0973-k-closest-points-to-origin](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0973-k-closest-points-to-origin) |
+| [3537-fill-a-special-grid](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3537-fill-a-special-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1314-matrix-block-sum](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1314-matrix-block-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3537-fill-a-special-grid](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3537-fill-a-special-grid) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Graph
 |  |
