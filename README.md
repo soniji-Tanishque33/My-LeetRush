@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3432-count-partitions-with-even-sum-difference](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3537-fill-a-special-grid](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3537-fill-a-special-grid) |
+| [3538-merge-operations-for-minimum-travel-time](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3538-merge-operations-for-minimum-travel-time) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3828-final-element-after-subarray-deletions](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3828-final-element-after-subarray-deletions) |
 | [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
@@ -633,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3429-paint-house-iv](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3429-paint-house-iv) |
 | [3448-count-substrings-divisible-by-last-digit](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3448-count-substrings-divisible-by-last-digit) |
+| [3538-merge-operations-for-minimum-travel-time](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3538-merge-operations-for-minimum-travel-time) |
 | [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
 | [3903-inverse-coin-change](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3903-inverse-coin-change) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
@@ -652,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3425-longest-special-path](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3425-longest-special-path) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3538-merge-operations-for-minimum-travel-time](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3538-merge-operations-for-minimum-travel-time) |
 | [3913-partition-array-to-minimize-xor](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3913-partition-array-to-minimize-xor) |
 ## Memoization
 |  |
