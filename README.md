@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3537-fill-a-special-grid](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3537-fill-a-special-grid) |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3538-merge-operations-for-minimum-travel-time) |
+| [3546-equal-sum-grid-partition-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3546-equal-sum-grid-partition-i) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3828-final-element-after-subarray-deletions](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3828-final-element-after-subarray-deletions) |
 | [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
@@ -462,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3537-fill-a-special-grid](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3537-fill-a-special-grid) |
+| [3546-equal-sum-grid-partition-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3546-equal-sum-grid-partition-i) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Graph
 |  |
@@ -658,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3427-sum-of-variable-length-subarrays](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3538-merge-operations-for-minimum-travel-time) |
+| [3546-equal-sum-grid-partition-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3546-equal-sum-grid-partition-i) |
 | [3913-partition-array-to-minimize-xor](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3913-partition-array-to-minimize-xor) |
 ## Memoization
 |  |
@@ -792,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3546-equal-sum-grid-partition-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3713-longest-balanced-substring-i) |
 | [3827-count-monobit-integers](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3827-count-monobit-integers) |
 | [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
