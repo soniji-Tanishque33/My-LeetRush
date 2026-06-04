@@ -643,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3429-paint-house-iv](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3429-paint-house-iv) |
 | [3448-count-substrings-divisible-by-last-digit](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3448-count-substrings-divisible-by-last-digit) |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3538-merge-operations-for-minimum-travel-time) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
 | [3903-inverse-coin-change](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3903-inverse-coin-change) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
@@ -768,6 +769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3411-maximum-subarray-with-equal-products](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3828-final-element-after-subarray-deletions) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -802,6 +804,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3411-maximum-subarray-with-equal-products](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3546-equal-sum-grid-partition-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3827-count-monobit-integers](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3827-count-monobit-integers) |
 | [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3868-find-maximum-area-of-a-triangle) |
