@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3537-fill-a-special-grid](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3537-fill-a-special-grid) |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3538-merge-operations-for-minimum-travel-time) |
 | [3546-equal-sum-grid-partition-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3546-equal-sum-grid-partition-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3689-maximum-total-subarray-value-i) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3828-final-element-after-subarray-deletions](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3828-final-element-after-subarray-deletions) |
 | [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
@@ -724,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3689-maximum-total-subarray-value-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3689-maximum-total-subarray-value-i) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
