@@ -568,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3412-find-mirror-score-of-a-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3412-find-mirror-score-of-a-string) |
 | [3448-count-substrings-divisible-by-last-digit](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3448-count-substrings-divisible-by-last-digit) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3612-process-string-with-special-operations-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3713-longest-balanced-substring-i) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3905-partition-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3905-partition-string) |
@@ -697,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3412-find-mirror-score-of-a-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3412-find-mirror-score-of-a-string) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3612-process-string-with-special-operations-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3612-process-string-with-special-operations-i) |
 | [3905-partition-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3905-partition-string) |
 | [3939-process-string-with-special-operations-ii](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3939-process-string-with-special-operations-ii) |
 ## Shortest Path
