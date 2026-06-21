@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1673-find-the-most-competitive-subsequence](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1833-maximum-ice-cream-bars) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2664-maximize-greatness-of-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/2664-maximize-greatness-of-an-array) |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1610-maximum-number-of-visible-points](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1610-maximum-number-of-visible-points) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1833-maximum-ice-cream-bars](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1833-maximum-ice-cream-bars) |
 | [2664-maximize-greatness-of-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/2664-maximize-greatness-of-an-array) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -726,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-furthest-building-you-can-reach](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1642-furthest-building-you-can-reach) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1833-maximum-ice-cream-bars](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1833-maximum-ice-cream-bars) |
 | [2664-maximize-greatness-of-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/2664-maximize-greatness-of-an-array) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3424-minimum-cost-to-make-arrays-identical) |
@@ -987,4 +990,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3407-substring-matching-pattern](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3407-substring-matching-pattern) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
