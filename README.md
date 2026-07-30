@@ -566,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-design-underground-system](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1396-design-underground-system) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3407-substring-matching-pattern](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3407-substring-matching-pattern) |
 | [3412-find-mirror-score-of-a-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3412-find-mirror-score-of-a-string) |
 | [3448-count-substrings-divisible-by-last-digit](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3448-count-substrings-divisible-by-last-digit) |
@@ -730,6 +731,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1833-maximum-ice-cream-bars) |
 | [2664-maximize-greatness-of-an-array](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/2664-maximize-greatness-of-an-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -778,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1446-angle-between-hands-of-a-clock](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1585-the-kth-factor-of-n](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1585-the-kth-factor-of-n) |
 | [1610-maximum-number-of-visible-points](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1610-maximum-number-of-visible-points) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3432-count-partitions-with-even-sum-difference) |
