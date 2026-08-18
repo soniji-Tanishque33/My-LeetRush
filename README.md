@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3429-paint-house-iv](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3429-paint-house-iv) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3447-assign-elements-to-groups-with-constraints) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3537-fill-a-special-grid](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3537-fill-a-special-grid) |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3538-merge-operations-for-minimum-travel-time) |
 | [3546-equal-sum-grid-partition-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3546-equal-sum-grid-partition-i) |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3412-find-mirror-score-of-a-string](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3412-find-mirror-score-of-a-string) |
 | [3425-longest-special-path](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3425-longest-special-path) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3447-assign-elements-to-groups-with-constraints) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3713-longest-balanced-substring-i](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3713-longest-balanced-substring-i) |
 | [3829-design-ride-sharing-system](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/3829-design-ride-sharing-system) |
