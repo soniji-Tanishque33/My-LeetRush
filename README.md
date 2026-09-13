@@ -999,4 +999,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/1833-maximum-ice-cream-bars) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/soniji-Tanishque33/My-LeetRush/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
